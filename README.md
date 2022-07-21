@@ -6,8 +6,6 @@ Hello! I'm Alexander Obregon
 I'm a Full Stack Software Engineer
 </h3>
 
-- 🐍 I’m currently learning Python
-
 - 💻 My final project https://gpyou-store.herokuapp.com/
 
 - 📝 Read my blogs https://medium.com/@alexander.obregon47
