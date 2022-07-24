@@ -10,7 +10,7 @@ I'm a Full Stack Software Engineer
 
 - 📝 Read my blogs https://medium.com/@alexander.obregon47
 
-- 💬 Ask me about React
+- 💬 Ask me about Java
 
 <h3>Connect with me: </h3>
 
