@@ -8,7 +8,7 @@ Hello! I'm Alexander Obregon
 
 - 💻 My final project https://gpyou-store.herokuapp.com/
 
-- 📝 Read my blogs https://medium.com/@alexander.obregon47
+- 📝 Read my blogs https://medium.com/@AlexanderObregon
 
 - 💬 Ask me about Java
 
