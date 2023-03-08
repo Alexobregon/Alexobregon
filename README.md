@@ -3,7 +3,7 @@ Hello! I'm Alexander Obregon
 </h1>
 
 
-<p align="center">I'm a Software Engineer with experience in Java, Ruby, JavaScript, and React, and I enjoy using technology to solve problems and build amazing things. I'm passionate about teamwork and always looking for new challenges. In my free time, I stay up to date on new technologies and explore new ways to use code to improve the world around me. Feel free to connect with me to chat about tech or ask any questions.</p>
+<p align="center">I'm a Software Engineer with experience in Java, Ruby, JavaScript, and React, and I enjoy using technology to solve problems and build amazing things. I'm passionate about teamwork and always looking for new challenges. In my free time, I stay up to date on new technologies and explore new ways to use code to improve the world around me. Feel free to connect with me to chat about tech or ask any questions!</p>
 
 
 - 💻 My final project https://gpyou-store.herokuapp.com/
